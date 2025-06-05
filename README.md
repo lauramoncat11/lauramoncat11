@@ -4,7 +4,10 @@
 
 <b>Por ahora, encontrarán algunos prototipos que he realizado en mi proceso de aprendizaje a través de la plataforma Unity Learn🕹, donde implementé algunas dinámicas como lo son: controles de movimiento, colisiones, recogida de objetos, entre otros.</b>
 
-<b>¡Gracias por visitar!🐱‍🚀 </b>
+<b>¡Gracias por visitar!. 🐱‍🚀 </b>
+
+![giphy_s](https://github.com/user-attachments/assets/525bdad6-7c6e-4d73-bbba-e3ea8e0ffb33)
+
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
