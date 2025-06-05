@@ -1,8 +1,8 @@
 <h1>👋 ¡Bienvenid@!, mi nombre es Laura Moncada Vargas</h1>
 
-<b> Actualmente me encuentro en formación como Desarrolladora en Unity 👾 a través de un bootcamp intensivo. Cuento con conocimientos en desarrollo de software, lógica de programación, manejo de CMS, lenguajes como C#, Java, HTML y creación de experiencias interactivas.</b> 
+<b> Actualmente me encuentro en formación como Desarrolladora en Unity 👾🎮 a través de un bootcamp intensivo. Cuento con conocimientos en desarrollo de software, lógica de programación, manejo de CMS, lenguajes como C#, Java, HTML y creación de experiencias interactivas.</b> 
 
-<b>Por ahora, encontrarán algunos prototipos que he realizado en mi proceso de aprendizaje a través de la plataforma Unity Learn, donde implementé algunas dinámicas como lo son: controles de movimiento, colisiones y recogida de objetos, entre otros.</b>
+<b>Por ahora, encontrarán algunos prototipos que he realizado en mi proceso de aprendizaje a través de la plataforma Unity Learn🕹, donde implementé algunas dinámicas como lo son: controles de movimiento, colisiones, recogida de objetos, entre otros.</b>
 
 <b>¡Gracias por visitar!🐱‍🚀 </b>
 <!--- - 👀 I’m interested in ...
