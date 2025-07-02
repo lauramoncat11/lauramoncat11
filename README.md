@@ -2,7 +2,7 @@
 
 <b> Actualmente me encuentro en formación como Desarrolladora en Unity 👾🎮 a través de un bootcamp intensivo. Cuento con conocimientos en desarrollo de software, lógica de programación, manejo de CMS, lenguajes como C#, Java, HTML y creación de experiencias interactivas.</b> 
 
-<b>Por ahora, encontrarán algunos prototipos que he realizado en mi proceso de aprendizaje a través de la plataforma Unity Learn🕹, donde implementé algunas dinámicas como lo son: controles de movimiento, colisiones, recogida de objetos, entre otros, e igualmente mi participación en las Game Jams del bootcamp.</b>
+<b>Por ahora, encontrarán algunos prototipos que he realizado en mi proceso de aprendizaje a través de la plataforma Unity Learn🕹, donde implementé algunas dinámicas como lo son: controles de movimiento, colisiones, recogida de objetos, entre otros, e igualmente los juegos creados en los cuales participé en las Game Jams del bootcamp a través de mi perfil de itch.io.</b>
 
 <b>¡Gracias por visitar!. 🐱‍🏍</b>
 
